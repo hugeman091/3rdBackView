@@ -1,6 +1,6 @@
 # 3rdBackView
 <detailes>
-  <demmary> Expand </summary>
+  <summary> Expand </summary>
   <div markdown="1">
 3인칭 백뷰
 
