@@ -1,5 +1,5 @@
 # 3rdBackView
-<detailes markdown="1">
+<details>
   <summary> 3rdBackView </summary>
 3인칭 백뷰
 
