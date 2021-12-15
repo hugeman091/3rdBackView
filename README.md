@@ -21,7 +21,7 @@ https://youtu.be/537B1kJp9YQ 참고
 <details>
   <summary> click </summary>
   
-singleton(monobehaviour)대신 사용하는 ScriptableObject를 이용한 구조
+monobehaviour대신 사용하는 ScriptableObject를 이용한 decoupling 구조
 
 https://youtu.be/WLDgtRNK2VE 참고
 
