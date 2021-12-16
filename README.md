@@ -27,3 +27,11 @@ https://youtu.be/WLDgtRNK2VE 참고
 
 <img src="https://user-images.githubusercontent.com/84231954/146162376-de3ff9cf-7c7e-49a8-a86b-c66ce87ef2f0.gif">
 </details>
+
+# ScriptableObject with controller
+<details>
+  <summary> click </summary>
+
+  scriptable object를 이용해 animation, move, input 같의 의존성을 최소화 한 구조
+  
+</details>
