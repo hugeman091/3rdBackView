@@ -45,3 +45,11 @@ https://youtu.be/WLDgtRNK2VE 참고
 <img src="https://user-images.githubusercontent.com/84231954/147627491-27d1b13b-1131-410f-892d-036b32c1c134.gif">
 </details>
 
+# PlayerHP UI (ScriptableObject Variable / ScriptableObject Event)
+<details>
+  <summary> click </summary>
+ 
+ scriptableObject를 이용한 HealthValue와 이벤트 콜백
+
+<img src="https://user-images.githubusercontent.com/84231954/147641100-588a123d-6024-483e-9fb8-79ecc39bbf81.png">
+</details>
