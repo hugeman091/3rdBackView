@@ -51,7 +51,7 @@ https://youtu.be/WLDgtRNK2VE 참고
  
  scriptableObject를 이용한 HealthValue와 이벤트 콜백
 
-<img src="https://user-images.githubusercontent.com/84231954/147641100-588a123d-6024-483e-9fb8-79ecc39bbf81.png">
+<img src="https://user-images.githubusercontent.com/84231954/147641949-60e6ccfb-feca-4164-b4fc-a0af36db4dd4.gif">
 <img src="https://user-images.githubusercontent.com/84231954/147641722-f23e0488-ff1a-4b96-b588-1aad9dc6c5a4.png">
 <img src="https://user-images.githubusercontent.com/84231954/147641750-e407f6c1-711a-4cc9-9879-23e23aaf624c.png">
   
