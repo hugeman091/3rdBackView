@@ -1,0 +1,50 @@
+﻿{
+  "weapons": [
+    {
+      "weaponType": "Sword",
+      "damage": "10",
+      "id": "1",
+      "name": "검",
+      "iconPath": "Textures/Item/sword",
+      "hideFlags": 0
+    },
+    {
+      "weaponType": "Bow",
+      "damage": "5",
+      "id": "2",
+      "name": "활",
+      "iconPath": "Textures/Item/bow",
+      "hideFlags": 0
+    }
+  ],
+  "armors": [
+    {
+      "armortype": "Armor",
+      "defence": "15",
+      "id": "100",
+      "name": "갑",
+      "iconPath": "Textures/Item/sword",
+      "hideFlags": 0
+    },
+    {
+      "armortype": "Helmet",
+      "defence": "5",
+      "id": "101",
+      "name": "헬멧",
+      "iconPath": "Textures/Item/helmets",
+      "hideFlags": 0
+    }
+  ],
+  "consumables": [
+    {
+      "consumableType": "Potion",
+      "damage": "10",
+      "id": "200",
+      "name": "물약",
+      "iconPath": "Textures/Item/hp",
+      "hideFlags": 0
+    }
+  ],
+  "name": "ItemDatas",
+  "hideFlags": 0
+}
