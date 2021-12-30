@@ -83,6 +83,6 @@ https://youtu.be/WLDgtRNK2VE 참고
 <img src="https://user-images.githubusercontent.com/84231954/147738590-e496d8ec-496d-44bd-b194-f9e06586651f.gif">
 <img src="https://user-images.githubusercontent.com/84231954/147738454-9ba60af5-f1e0-4854-8cf1-fae0b317d72e.png">
 <img src="https://user-images.githubusercontent.com/84231954/147738483-7fb4fa2c-ad66-43a3-89b3-8d0a4e360333.png">
-<img src="https://user-images.githubusercontent.com/84231954/147738516-b14bc869-e663-46fc-950d-01e942e2b649.png">
-  
+<img src="https://user-images.githubusercontent.com/84231954/147739926-d58584ec-0e36-42d8-965d-2654a01bc741.png">
+
 </details>
