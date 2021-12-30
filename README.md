@@ -54,7 +54,10 @@ https://youtu.be/WLDgtRNK2VE 참고
 <img src="https://user-images.githubusercontent.com/84231954/147641949-60e6ccfb-feca-4164-b4fc-a0af36db4dd4.gif">
 <img src="https://user-images.githubusercontent.com/84231954/147641722-f23e0488-ff1a-4b96-b588-1aad9dc6c5a4.png">
 <img src="https://user-images.githubusercontent.com/84231954/147641750-e407f6c1-711a-4cc9-9879-23e23aaf624c.png">
-  
+<img src="https://user-images.githubusercontent.com/84231954/147725970-fe557215-e342-4f77-851b-e81bc4aba0b2.png">
+  ![image](https://user-images.githubusercontent.com/84231954/147725988-3be477eb-e927-4804-806e-e0f268403d8f.png)
+
+
 </details>
 
 
