@@ -56,3 +56,15 @@ https://youtu.be/WLDgtRNK2VE 참고
 <img src="https://user-images.githubusercontent.com/84231954/147641750-e407f6c1-711a-4cc9-9879-23e23aaf624c.png">
   
 </details>
+
+
+# Inventory 
+<details>
+  <summary> click </summary>
+
+ InventoryContainer : Equip 이벤트 실행
+  InventoryUI, EquipUI -> Equip 이벤트 Listen
+<img src=" https://user-images.githubusercontent.com/84231954/147725712-e1bc8b23-9b93-4ee7-84de-fd3f2f9f8a1c.png">
+<img src="https://user-images.githubusercontent.com/84231954/147725311-b6eed81e-2cc2-4c7f-abee-af2d24ddbd7c.gif">
+  
+</details>
