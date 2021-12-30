@@ -64,7 +64,9 @@ https://youtu.be/WLDgtRNK2VE 참고
 
  InventoryContainer : Equip 이벤트 실행
   InventoryUI, EquipUI -> Equip 이벤트 Listen
-<img src="https://user-images.githubusercontent.com/84231954/147725712-e1bc8b23-9b93-4ee7-84de-fd3f2f9f8a1c.png">
 <img src="https://user-images.githubusercontent.com/84231954/147725311-b6eed81e-2cc2-4c7f-abee-af2d24ddbd7c.gif">
+<img src="https://user-images.githubusercontent.com/84231954/147725850-919d97c6-ece3-4588-988b-4cee2d48ec51.png">
+<img src="https://user-images.githubusercontent.com/84231954/147725854-3baddd29-fa10-4683-b30c-89b14af4e373.png">
+<img src="https://user-images.githubusercontent.com/84231954/147725875-a948e9df-8687-4b17-8470-156b7f183692.png">
   
 </details>
