@@ -70,5 +70,19 @@ https://youtu.be/WLDgtRNK2VE 참고
 <img src="https://user-images.githubusercontent.com/84231954/147725875-a948e9df-8687-4b17-8470-156b7f183692.png">
 <img src="https://user-images.githubusercontent.com/84231954/147725939-3a017229-06e9-44ca-b63f-7af17039739f.png">
   
+</details>
+
+# Convert scriptableobject to json 
+<details>
+  <summary> click </summary>
+
+아이템 제작은 UnityClient에서 scriptableobject로 생산성 증가
+서버에서도 같은 데이터 사용을 위해 json컨버팅작업
+서버에서는 json데이터 파싱 후 사용
+
+<img src="https://user-images.githubusercontent.com/84231954/147738590-e496d8ec-496d-44bd-b194-f9e06586651f.gif">
+<img src="https://user-images.githubusercontent.com/84231954/147738454-9ba60af5-f1e0-4854-8cf1-fae0b317d72e.png">
+<img src="https://user-images.githubusercontent.com/84231954/147738483-7fb4fa2c-ad66-43a3-89b3-8d0a4e360333.png">
+<img src="https://user-images.githubusercontent.com/84231954/147738516-b14bc869-e663-46fc-950d-01e942e2b649.png">
   
 </details>
