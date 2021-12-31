@@ -100,3 +100,23 @@ https://youtu.be/WLDgtRNK2VE 참고
 <img src="https://user-images.githubusercontent.com/84231954/147807639-95f136a0-f7a8-43f9-8b1f-76fdc057ebfe.png">
 <img src="https://user-images.githubusercontent.com/84231954/147807547-61ddd28e-98d5-4f3a-8e2b-88dac9a9070c.png">
 </details>
+
+
+# Player Currency UI
+<details>
+  <summary> click </summary>
+
+  유저 재화 UI SO value 이용하여 하나의 SO value를 참조.
+  서버를 고려하자면 Packet을 받았을때 SO value만 변경하면 UI에 자동으로 반영.
+  
+  왜 TMP_Pro.Text가 콜백으로 업데이트 되지 않는지는 모르겠으나 아쉬운대로 update에서 갱신해두록 변경
+  Prefab은 NestedPrefab으로 제작 가능.
+  
+<img src="https://user-images.githubusercontent.com/84231954/147825288-dc6c3588-d816-40b2-b4a6-23a6877d99eb.gif">
+<img src="https://user-images.githubusercontent.com/84231954/147825299-dcc8cd7a-222f-417b-bd54-4a6273a9c640.gif">
+<img src="https://user-images.githubusercontent.com/84231954/147825313-15d50edd-5c86-43cc-abb0-ee40c7e46333.png">
+<img src="https://user-images.githubusercontent.com/84231954/147825354-fab901f5-83de-4d93-a4a0-17f5660a5a0b.png">
+<img src="https://user-images.githubusercontent.com/84231954/147825377-25e626fb-d424-4d72-8fb0-89f3c41151e4.png">
+
+</details>
+
