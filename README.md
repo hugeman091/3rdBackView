@@ -95,15 +95,8 @@ https://youtu.be/WLDgtRNK2VE 참고
   Scene 변경과 SceneStack으로 Scene돌아가기
 
 <img src="https://user-images.githubusercontent.com/84231954/147807485-32a384e0-9efd-418d-a942-584e7262c793.gif">
-
-  
-  
-<img src="https://user-images.githubusercontent.com/84231954/147807639-95f136a0-f7a8-43f9-8b1f-76fdc057ebfe.png">
-<img src="https://user-images.githubusercontent.com/84231954/147807547-61ddd28e-98d5-4f3a-8e2b-88dac9a9070c.png">
-  
-  
-  
 <img src="https://user-images.githubusercontent.com/84231954/147807565-b9f527d0-079d-402d-b47d-9f58b52ccd99.png">
 <img src="https://user-images.githubusercontent.com/84231954/147807596-b32e33f0-3f31-4389-a99d-bb4e67b69763.png">
-
+<img src="https://user-images.githubusercontent.com/84231954/147807639-95f136a0-f7a8-43f9-8b1f-76fdc057ebfe.png">
+<img src="https://user-images.githubusercontent.com/84231954/147807547-61ddd28e-98d5-4f3a-8e2b-88dac9a9070c.png">
 </details>
