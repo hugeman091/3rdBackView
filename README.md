@@ -120,3 +120,16 @@ https://youtu.be/WLDgtRNK2VE 참고
 
 </details>
 
+
+# Player Status
+<details>
+  <summary> click </summary>
+
+  패킷으로 변경데이터를 받았다는 가정하에 SO유저데이터를 기반으로 각 UI들에 event를 보내서 갱신하도록 수정.
+  EXP의 경우 경험치 테이블을 SO파일로 저장해서 사용.
+
+<img src="https://user-images.githubusercontent.com/84231954/147881586-66b1f00e-77a2-45da-980b-3c77319c496b.gif">
+<img src="https://user-images.githubusercontent.com/84231954/147881713-7354561a-e65e-45ab-9b18-e139c70dc5be.png">
+  
+</details>
+
