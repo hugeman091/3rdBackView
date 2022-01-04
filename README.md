@@ -133,3 +133,16 @@ https://youtu.be/WLDgtRNK2VE 참고
   
 </details>
 
+
+# Basic combat system based on SO datatable
+<details>
+  <summary> click </summary>
+
+  기본 전투 시스템에 데이터 테이블 적용.
+  scriptableObject로 데이터 테이블, 데이터 컨테이너 사용.
+
+<img src="https://user-images.githubusercontent.com/84231954/148046194-c452d4fe-43b0-4828-a766-c7535d967d90.gif">
+<img src="https://user-images.githubusercontent.com/84231954/148046364-47a8b8af-33cf-4063-807c-6ab396c5a751.png">
+<img src="https://user-images.githubusercontent.com/84231954/148046426-40e8757f-6372-4170-b04f-54689f87053d.png">
+
+</details>
