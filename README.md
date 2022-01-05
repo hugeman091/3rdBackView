@@ -146,3 +146,16 @@ https://youtu.be/WLDgtRNK2VE 참고
 <img src="https://user-images.githubusercontent.com/84231954/148046426-40e8757f-6372-4170-b04f-54689f87053d.png">
 
 </details>
+
+
+# Inventory2
+<details>
+  <summary> click </summary>
+
+  아이템 테이블 기반 인벤토리 간단하게 만들어놓을 용도
+
+<img src="https://user-images.githubusercontent.com/84231954/148187172-8b0a2414-7bcf-41f8-b777-bf07b76424d8.gif">
+<img src="https://user-images.githubusercontent.com/84231954/148187286-49d59ce4-570b-457b-8cb0-8c0930c2964d.png">
+<img src="https://user-images.githubusercontent.com/84231954/148187352-c67175e4-4a1a-4739-9e50-e19bdd07acaf.png">
+
+</details>
