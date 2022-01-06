@@ -181,3 +181,20 @@ https://youtu.be/WLDgtRNK2VE 참고
 <img src="https://user-images.githubusercontent.com/84231954/148338108-5468811a-52df-41d7-8b9b-a530b63d3d70.gif">
 
 </details>
+
+
+# UniTask RankingUI with RedisDB
+<details>
+  <summary> click </summary>
+
+  ASP.NET WebAPI를 이용해 로컬 RedisDB와 연결.
+  UniTask 사용하여 async로 클라이언트에서 서버로 redis 랭킹데이터 요청.
+  파싱 후 랭킹 표시
+  
+  코드는 하드코딩좀 되어있는 상태
+
+<img src="https://user-images.githubusercontent.com/84231954/148414323-ce9add51-2085-4c57-8572-01c3d57a3530.gif">
+<img src="https://user-images.githubusercontent.com/84231954/148414373-f88e934d-89ea-4410-8b25-76ba17aa67f4.png">
+<img src="https://user-images.githubusercontent.com/84231954/148414412-baa45851-dc39-4769-9f8a-ac12ee6f9170.png">
+
+</details>
