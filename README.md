@@ -170,3 +170,14 @@ https://youtu.be/WLDgtRNK2VE 참고
 <img src="https://user-images.githubusercontent.com/84231954/148251675-f7031058-92a1-4c6c-9d26-8c28e6d54002.gif">
 
 </details>
+
+
+# Dotween UI Slider
+<details>
+  <summary> click </summary>
+
+  Dotween slider애니메이션
+
+<img src="https://user-images.githubusercontent.com/84231954/148338055-e4052f17-95e9-4127-b26a-9844af9c318f.gif">
+
+</details>
