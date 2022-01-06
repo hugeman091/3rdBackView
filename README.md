@@ -178,6 +178,6 @@ https://youtu.be/WLDgtRNK2VE 참고
 
   Dotween slider애니메이션
 
-<img src="https://user-images.githubusercontent.com/84231954/148338055-e4052f17-95e9-4127-b26a-9844af9c318f.gif">
+<img src="https://user-images.githubusercontent.com/84231954/148338108-5468811a-52df-41d7-8b9b-a530b63d3d70.gif">
 
 </details>
