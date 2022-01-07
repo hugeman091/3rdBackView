@@ -198,3 +198,16 @@ https://youtu.be/WLDgtRNK2VE 참고
 <img src="https://user-images.githubusercontent.com/84231954/148414412-baa45851-dc39-4769-9f8a-ac12ee6f9170.png">
 
 </details>
+
+
+# ASP.NET + MSSQL
+<details>
+  <summary> click </summary>
+
+  AccountServer 만드는 와중에 기존에 사용하던 EFCore는 제거하고 SqlClient사용해서 MSSQL연결
+  웹 API Tester로 수신 테스트
+
+<img src="https://user-images.githubusercontent.com/84231954/148585115-b080c6ec-5d1b-4bd7-b2f0-f263ef6c57e7.png">
+<img src="https://user-images.githubusercontent.com/84231954/148585233-a48473c1-6b59-420a-a565-659faaca9785.png">
+  
+</details>
